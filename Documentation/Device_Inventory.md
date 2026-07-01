@@ -1,8 +1,9 @@
-Device Inventory
+# Device Inventory
 
-========================================
-NETWORK ROOM
-========================================
+===========================
+===========================
+=========== NETWORK ROOM
+===========================
 
 1 x ISP Router
 Hostname: ISP-RTR
@@ -16,9 +17,14 @@ Model: Cisco ISR 4321
 Hostname: SW-CORE
 Model: Cisco Catalyst 2960-24TT
 
-========================================
-GROUND FLOOR
-========================================
+1 x Internet Server
+Hostname: INTERNET-SERVER
+Model: PT-Server
+
+===========================
+===========================
+=========== GROUND FLOOR
+===========================
 
 1 x Access Switch
 Hostname: SW-GF
@@ -58,9 +64,10 @@ LAB1-PC18
 LAB1-PC19
 LAB1-PC20
 
-========================================
-FIRST FLOOR
-========================================
+===========================
+===========================
+=========== FIRST FLOOR
+===========================
 
 1 x Access Switch
 Hostname: SW-FF
@@ -68,6 +75,10 @@ Model: Cisco Catalyst 2960-24TT
 
 1 x Staff Room First Floor PC
 Hostname: PC-STAFF-FF
+
+1 x Staff Laptop
+Hostname: STAFF-LAPTOP
+Model: Laptop-PT
 
 Computer Lab 2
 
@@ -84,9 +95,10 @@ LAB2-PC08
 LAB2-PC09
 LAB2-PC10
 
-========================================
-ADMIN AREA
-========================================
+===========================
+===========================
+=========== ADMIN AREA
+===========================
 
 1 x Access Switch
 Hostname: SW-ADMIN
@@ -110,14 +122,23 @@ Hostname: PRINTER-ADMIN
 1 x Wireless Access Point
 Hostname: AP-STAFF
 
-========================================
-TOTAL DEVICE COUNT
-========================================
+===========================
+===========================
+=========== TOTAL DEVICE COUNT
+===========================
 
 Routers: 2
+
 Switches: 4
+
+Servers: 1
+
+Laptops: 1
+
 Access Points: 1
+
 Printers: 1
+
 PCs: 38
 
-Total Devices: 46
+Total Devices: 48
