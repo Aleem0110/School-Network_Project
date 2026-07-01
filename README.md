@@ -3,6 +3,11 @@
 > A realistic enterprise school network designed in Cisco Packet Tracer following CCNA Enterprise networking concepts.
 
 ---
+## 🖼️ Network Topology
+
+![Enterprise School Network Topology](Screenshots/13_Final_Complete_Topology.png)
+
+---
 
 ## 📖 Project Overview
 
