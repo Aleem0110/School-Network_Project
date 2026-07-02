@@ -143,7 +143,7 @@ They include:
 
 ## 📶 Wireless Client Test
 
-![Wireless](Screenshots/09_Wireless_Client_Test.png)
+![Wireless](/Screenshots/09_0_Wireless_Client_Test.png)
 
 ---
 
